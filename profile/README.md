@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/mosvince-banner.png" alt="MOSvince - Systems Infrastructure, Microsoft 365, Automation, and Networking" width="100%">
+</p>
+
 # MOSvince
 
 MOSvince is a future-focused technology brand built around systems infrastructure, Microsoft 365 environments, automation, networking, and practical digital solutions.
